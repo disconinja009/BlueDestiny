@@ -1,4 +1,4 @@
-# THE-O
+# BlueDestiny
 
 ## Description
 This repository is designed to perform tasks such as malware analysis, memory forensics, and packet analysis in Jupyter Notebook.  
